@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ErikoUeda.github.io/categories/</loc>
-    <lastmod>2020-10-14T21:06:01+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ErikoUeda.github.io/categories/category/</loc>
-    <lastmod>2020-10-14T21:06:01+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ErikoUeda.github.io/page/cv/</loc>
     <lastmod>2020-10-14T21:06:01+09:00</lastmod>
   </url>
@@ -28,27 +18,15 @@
   </url>
   
   <url>
-    <loc>https://ErikoUeda.github.io/categories/subcategory/</loc>
-    <lastmod>2020-10-14T21:06:01+09:00</lastmod>
+    <loc>https://ErikoUeda.github.io/archives/</loc>
   </url>
   
   <url>
-    <loc>https://ErikoUeda.github.io/tags/tag1/</loc>
-    <lastmod>2020-10-14T21:06:01+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ErikoUeda.github.io/tags/tag2/</loc>
-    <lastmod>2020-10-14T21:06:01+09:00</lastmod>
+    <loc>https://ErikoUeda.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://ErikoUeda.github.io/tags/</loc>
-    <lastmod>2020-10-14T21:06:01+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ErikoUeda.github.io/archives/</loc>
   </url>
   
 </urlset>
